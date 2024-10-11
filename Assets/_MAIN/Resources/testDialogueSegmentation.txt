@@ -1,0 +1,15 @@
+"<i>Music plays in the background</i>" PlayMusic("Chopin_Op10No1Bad") DisableContinue(10)
+
+EnableContinue()
+
+Sam: "Ugh! {a}Damn It!"
+
+"The piece I am working on is {wc 0.15}<i>Etude Op. 10 No. 1</i>."
+
+"It may sound cute, {wa 0.1}but it's deceptively hard."
+
+"It's almost as if Chopin wrote it to {wc 0.15}torture hands."
+
+"Especially small hands like mine."
+
+narrator: "At that moment, I freeze as I hear...{a} ...a polite knock on the door {c} As the professor comes in..."

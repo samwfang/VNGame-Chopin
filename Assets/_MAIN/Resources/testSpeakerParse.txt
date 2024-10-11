@@ -1,0 +1,13 @@
+"<i>Music plays in the background</i>" PlayMusic("Chopin_Op10No1Good"), DisableContinue(10)
+
+EnableContinue()
+
+Sam as Samantha at 1;0 [0;School, 1;Surprised]: "Hello? {wa 1}... Aaagh!!!"
+narrator: "The young boy playing the piano is startled, abruptly stopping"
+Fred as ??? at 1;1 [0;School, 1;Surprised]: "..."
+PlaySong("Happy", volume=100)
+Sam at 1;0 [1; Embarressed]: "Sorry... Sorry... I didn't mean to interrupt"
+Fred as ??? [1; Similing]: "... {a} Ehe... {a} No worries: I love you!"
+Sam: "Whew..."
+
+
